@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+}
+.name{
+    font-size: 32px;
+}
+.shoutout{
+    font-size: 18px;
+}
+.box {
+    height: 60px;
+    background-color: darkgrey;
+}
+.greenOn{
+    background-color: lightgreen;
+}
+
